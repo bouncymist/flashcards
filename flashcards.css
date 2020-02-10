@@ -1,0 +1,19 @@
+
+
+
+.fcard {
+	background-color: #CCF6FF;
+	border: 3px solid #EB9928;
+	font-size: 5vh;
+	color: #2F4858;
+	text-align: center;
+	width: 90vw;
+	height: 20vh;
+	font-family: 'Roboto';
+	font-weight: 400;
+	border-radius: 10px
+}
+/* #2F4858 is dark blue, #5F788A is medium blue, #CCF6FF is light blue, #EB9928 is orange */ 
+body {
+	background-color: #5F788A;
+}
