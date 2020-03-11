@@ -31,6 +31,16 @@ function initiate() {
 	'When was smallpox eradicated globally?',
 	'Which century was Vesalius from?',
 	'Which century was Paré from?',
+	"Who wrote 'Fabric of the Human Body' in 1543? ",
+	"Which century was John Hunter from?",
+	'When was the smallpox vaccination made mandatory in England?',
+	'What did William Harvey prove?',
+	'Which centuries was William Harvey from?',
+	"When did the 'Black Death' start in Britain?",
+	"Why were Hugh of Lucca and his son Theodore's ideas not very popular?",
+	'Which of the following were used as natural anaesthetics?',
+	'Which century was John of Arderne from?',
+	'Which Islamic surgeon wrote a book describing amputations, removal of bladder stones and stitching wounds?',
 	];
  answer2list =[
 	'Hippocrates and Galen',
@@ -39,11 +49,22 @@ function initiate() {
 	'1980',
 	'C16th',
 	'C16th',
+	"Vesalius",
+	'C18th',
+	'1853',
+	'Blood circulates around the body and humans have a fixed amount of blood.',
+	'C16th and 17th',
+	'1348',
+	'They clashed with the ideas of Hippocrates and Galen, which was criticised by the church.',
+	'[All of these]',
+	'C14th',
+	'Abulcasis',
 ]
 	
  answer_list = [
-{
-	anslist: answer2list},
+	{
+		anslist: answer2list
+	},
 	
 	{
 		anslist: [
@@ -53,6 +74,16 @@ function initiate() {
 		'1798',
 		'C15th',
 		'C15th',
+		'Paré',
+		'C16th',
+		'1861',
+		'The jawbone has only one part, not two like Galen said.',
+		'C17th and 18th',
+		'1665',
+		'They clashed with the ideas of the Caliphs who were in charge.',
+		'Mandrake root',
+		'C12th',
+		'Ibn al-Nafis',
 	]},
 	
 	{
@@ -63,6 +94,16 @@ function initiate() {
 		'1861',
 		'C17th',
 		'C17th',
+		'Harvey',
+		'C15th',
+		'1771',
+		'Germs are the cause for disease and come from the air.',
+		'C15th and 16th',
+		'1495',
+		'They were proven wrong.',
+		'Opium',
+		'C17th',
+		'Al-Rhazi',
 	]},
 
 	
@@ -74,6 +115,16 @@ function initiate() {
 		'1896',
 		'C18th',
 		'C18th',
+		'Galen',
+		'C17th',
+		'1834',
+		'Pouring boiling oil into a wound is not good in general.',
+		'C14th and 15th',
+		'1522',
+		'They used wine on wounds - what a waste!',
+		'Hemlock and Henbane',
+		'C13th',
+		'Ibn Sina',
 	]},
 ]
 	
